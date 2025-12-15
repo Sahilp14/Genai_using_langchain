@@ -7,7 +7,7 @@ This repository showcases my hands-on experience with **LLM pipelines, embedding
 
 ---
 
-## 👨‍💻 Why This Project Matters
+## 👨‍💻 Why This Practice Matters
 
 Large Language Models are powerful, but real-world applications require:
 - Efficient data ingestion
