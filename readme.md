@@ -14,7 +14,7 @@ Large Language Models are powerful, but real-world applications require:
 - Semantic search using vector databases
 - Context-aware question answering
 - Flexible LLM integration (local & cloud)
-
+  
 This project demonstrates how to **design and implement these systems end-to-end** using industry-standard tools like **:contentReference[oaicite:0]{index=0}**, **:contentReference[oaicite:1]{index=1}**, and **:contentReference[oaicite:2]{index=2}**.
 
 ---
